@@ -134,6 +134,7 @@ Explain classes and data abstraction cognitive-creating
 
 ## Module 3: Data Types & Operators 
 ***(CLO 3 Measured)***
+
 [Module 3](./Module_3/README.md) is about
  * Chapter 2
  * https://learning.oreilly.com/library/view/python-projects-for/9781484253557/html/481544_1_En_2_Chapter.xhtml
@@ -142,6 +143,7 @@ Explain classes and data abstraction cognitive-creating
  
 ## Module 4: Selection Structures 
 ***(CLO 4 Measured)*** 
+
 [Module 4](./Module_4/README.md) is about .
  * Chapter 3 
  * https://learning.oreilly.com/library/view/python-projects-for/9781484253557/html/481544_1_En_3_Chapter.xhtml 
@@ -176,6 +178,7 @@ Explain classes and data abstraction cognitive-creating
 
 ## Module 8: String Methods and Operations
 ***(CLO 8 Measured)***
+
 [Module 8](./Module_8/README.md) is about .
  * https://www.digitalocean.com/community/tutorials/python-string-functions 
  * https://www.digitalocean.com/community/tutorials/python-string-functions#useful-string-operations 
@@ -184,6 +187,7 @@ Explain classes and data abstraction cognitive-creating
 
 ## Module 9: OOD
 ***(CLO 9 Measured)***
+
 [Module 9](./Module_9/README.md) is about .
  * Chapter 7
  * https://learning.oreilly.com/library/view/python-projects-for/9781484253557/html/481544_1_En_6_Chapter.xhtml 
@@ -209,6 +213,7 @@ Explain classes and data abstraction cognitive-creating
 
 ## Module 12: Social, Moral, And Philosophical Implications of AI 
 ***(PLO 2 Measured)*** 
+
 Design, implement, and evaluate computer solutions utilizing structured and object-oriented programming methodologies, utilizing control structures, methods with the appropriate parameters, and data structures of the appropriate type.
 
 [Module 12](./Module_12/README.md) is about .
