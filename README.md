@@ -149,38 +149,65 @@ Explain classes and data abstraction cognitive-creating
 
 
 
-## Module 5: Supervised Learning  
-***(CLO 1D Measured)*** Identifying supervised vs. Unsupervised learning, neural networks and discovering their application; 
+## Module 5: Loops  
+***(CLO 5 Measured)*** 
 
 [Module 5](./Module_5/README.md) is about.
+ * Chapter 4 
+ * https://learning.oreilly.com/library/view/python-projects-for/9781484253557/html/481544_1_En_4_Chapter.xhtml
 
-## Module 6: Data Collection and Enhancement 
-***(CLO 3 Measured) project using CodeFree Programming in Orange*** The student will be able explore data sets by: A) defining and describing data, data acquisition, data visualization, and data transformation; B) identifying data sources and their production; C) using and manipulating data sets to train learning models
 
+## Module 6: Functions
+***(CLO 6 Measured)***
 
 [Module 6](./Module_6/README.md) is about .
+ * Chapter 5
+ * https://learning.oreilly.com/library/view/python-projects-for/9781484253557/html/481544_1_En_5_Chapter.xhtml
 
-## Module 7: Deep Learning 
+
+## Module 7: Data Structures & Files 
+***(CLO 7 Measured)***
 [Module 7](./Module_7/README.md) is about .
+ * Chapter 6
+ * https://learning.oreilly.com/library/view/python-projects-for/9781484253557/html/481544_1_En_6_Chapter.xhtml 
 
-## Module 8: Hardware
+
+## Module 8: String Methods and Operations
+***(CLO 8 Measured)***
 [Module 8](./Module_8/README.md) is about .
+ * https://www.digitalocean.com/community/tutorials/python-string-functions 
+ * https://www.digitalocean.com/community/tutorials/python-string-functions#useful-string-operations 
 
-## Module 9: Software
+
+
+## Module 9: OOD
+***(CLO 9 Measured)***
 [Module 9](./Module_9/README.md) is about .
+ * Chapter 7
+ * https://learning.oreilly.com/library/view/python-projects-for/9781484253557/html/481544_1_En_6_Chapter.xhtml 
 
-## Module 10: Latest Developments in AI 
-***(CLO 1E Measured)*** Researching enterprise applications of AI and implementation readiness such as computing scalability, technical tradeoffs, and data pipelines
+
+## Module 10: Efficiency and Complexity
 
 [Module 10](./Module_10/README.md) is about .
+ * Chapter 8
+ * https://learning.oreilly.com/library/view/python-projects-for/9781484253557/html/481544_1_En_8_Chapter.xhtml
+ * Chapter 9
+ * https://learning.oreilly.com/library/view/python-projects-for/9781484253557/html/481544_1_En_9_Chapter.xhtml 
 
-## Module 11: Social, Moral, And Philosophical Implications of AI 
-***(CLO 2 Measured) AI ethics and legal issues today paper*** The student will demonstrate an understanding of ethical and legal considerations in ai by:
-A) defining key vocabulary terms related to computing ethics such as algorithmic privacy and algorithmic fairness;
-B) identifying and explaining issues in computing ethics at the levels of system development, implementation, and administration
 
+## Module 11: Intro to Libraries
 
 [Module 11](./Module_11/README.md) is about .
+ * https://www.geeksforgeeks.org/libraries-in-python/ 
+ * Chapter 10
+ * https://learning.oreilly.com/library/view/python-projects-for/9781484253557/html/481544_1_En_10_Chapter.xhtml 
 
 
-***Intel Content Source: https://www.intel.com/content/www/us/en/developer/learn/course-artificial-intelligence.html***
+
+## Module 12: Social, Moral, And Philosophical Implications of AI 
+***(PLO 2 Measured)*** 
+Design, implement, and evaluate computer solutions utilizing structured and object-oriented programming methodologies, utilizing control structures, methods with the appropriate parameters, and data structures of the appropriate type.
+
+[Module 12](./Module_12/README.md) is about .
+ * Final Project (measure PLO-2)
