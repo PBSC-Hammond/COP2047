@@ -112,7 +112,7 @@ Explain classes and data abstraction cognitive-creating
 
 # Course Modules
 
-## Module 1: History of Python & IDE’s
+## Module 1: History of Python & IDE’s *(2 weeks)*
 
 ***(CLO 1 Measured)*** 
 
@@ -123,22 +123,31 @@ Explain classes and data abstraction cognitive-creating
 *  Colab
 
 
-## Module 2: An Introduction to AI and Its History 
-***(CLO 1B Measured)*** Describing the history of AI 
+## Module 2: Data Types & Operators   *(2 weeks)*
+***(CLO 2 Measured)*** 
 
 [Module 2](./Module_2/README.md) is about 
+ * Chapter 2
+ * https://learning.oreilly.com/library/view/python-projects-for/9781484253557/html/481544_1_En_2_Chapter.xhtml 
 
 
-## Module 3: AI in Industry
+## Module 3: Data Types & Operators 
+***(CLO 3 Measured)***
 [Module 3](./Module_3/README.md) is about
+ * Chapter 2
+ * https://learning.oreilly.com/library/view/python-projects-for/9781484253557/html/481544_1_En_2_Chapter.xhtml
+
+
  
-## Module 4: AI in the Enterprise 
-***(CLO 1C Measured)*** Describing and using the AI project cycle
-
-***(PLO 1 Measured)*** Explain attributes of the field of AI including: A) The AI Project lifecycle, B) ethical and legal considerations in ai, C) career opportunities in the field of AI and recognize the value of emotional intelligence, effective communication, and the ability to embrace change in the field of AI
-
-
+## Module 4: Selection Structures 
+***(CLO 4 Measured)*** 
 [Module 4](./Module_4/README.md) is about .
+ * Chapter 3 
+ * https://learning.oreilly.com/library/view/python-projects-for/9781484253557/html/481544_1_En_3_Chapter.xhtml 
+ * Exception Handling
+
+
+
 
 ## Module 5: Supervised Learning  
 ***(CLO 1D Measured)*** Identifying supervised vs. Unsupervised learning, neural networks and discovering their application; 
