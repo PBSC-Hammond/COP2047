@@ -8,7 +8,8 @@
 
 #### **Course competency 1:** 
 Examine evolution of python programming language cognitive-creative 
- * 1.a. Describe computing history 1.b. Explore evolution of the python programming language 
+ * 1.a. Describe computing history
+ * 1.b. Explore evolution of the python programming language 
  * 1.c. Examine python programs 
  * 1.d. Describe processing programs 
  * 1.e. Design algorithms 
