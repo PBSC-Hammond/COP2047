@@ -167,6 +167,7 @@ Explain classes and data abstraction cognitive-creating
 
 ## Module 7: Data Structures & Files 
 ***(CLO 7 Measured)***
+
 [Module 7](./Module_7/README.md) is about .
  * Chapter 6
  * https://learning.oreilly.com/library/view/python-projects-for/9781484253557/html/481544_1_En_6_Chapter.xhtml 
