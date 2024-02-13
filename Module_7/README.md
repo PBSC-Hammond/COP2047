@@ -1,5 +1,5 @@
 
-# Module 7: o	Data Structures & Files
+# Module 7: Data Structures & Files
 
 
 In this Module,
@@ -16,5 +16,5 @@ Examine built-in data structures cognitive-creating
   * 7.f. Determine appropriate data structure for a given algorithm
   * 7.g. Code programs using built-in data structures
 
- * Chapter 6
- * https://learning.oreilly.com/library/view/python-projects-for/9781484253557/html/481544_1_En_6_Chapter.xhtml 
+* Chapter 6
+* https://learning.oreilly.com/library/view/python-projects-for/9781484253557/html/481544_1_En_6_Chapter.xhtml 
