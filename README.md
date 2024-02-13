@@ -211,7 +211,7 @@ Explain classes and data abstraction cognitive-creating
 
 
 
-## Module 12: Social, Moral, And Philosophical Implications of AI 
+## Module 12: Final
 ***(PLO 2 Measured)*** 
 
 Design, implement, and evaluate computer solutions utilizing structured and object-oriented programming methodologies, utilizing control structures, methods with the appropriate parameters, and data structures of the appropriate type.
